@@ -9,14 +9,14 @@ This is a manual testing sample, done on the website Durber Technologies Ltd. Th
 ## Requirements:
 - Knowledge of manual testing.
 
-## In this Project for webapplication type of work is done. It's given below:
+## In this Project for web application type of work is done. It's given below:
 
     1. testing the Registration page.
     2. testing the login page.
     3. Make a buge report.
     4. Find out Serverity and priority.
 
-## For Mobileapplication:
+## For Mobile application:
 
     1. testing the Registration page.
     2. testing the login page.
